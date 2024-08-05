@@ -18,7 +18,7 @@ Neste projeto, explorei a possibilidade de prever problemas renais com base em r
 3. **Conclusões:** 
 
 ### 🎲 Base de Dados
-A base de dados utilizada neste projeto é [nome_da_base_de_dados]. Ela contém informações relevantes para a previsão de problemas renais.
+A base de dados utilizada neste projeto é Kidney Disease Database. Ela contém informações relevantes para a previsão de problemas renais.
 
 ## 🚀 Projetos Futuros
 
@@ -35,7 +35,7 @@ Aceitamos contribuições de outros pesquisadores e desenvolvedores interessados
 
 ## 📫 Contato
 
-Para qualquer dúvida ou questionamento pode entrar em contato com egcf@cesar.school
+Para qualquer dúvida ou questionamento pode entrar em contato com evaldocunhaf@gmail.com
 
 ## 👩‍💻 Membros
 
