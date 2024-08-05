@@ -10,13 +10,6 @@ Nesse repositório você encontrará todos os meus projetos pessoais, cada um fo
 
 Neste projeto, explorei a possibilidade de prever problemas renais com base em resultados de exames de sangue. A análise incluiu a exploração da base de dados disponível, a identificação de padrões relevantes e a aplicação de algoritmos de machine learning para a criação de um modelo preditivo.
 
-### 🤔 Conteúdo do Projeto
-1. **Notebook de Exploração de Dados:** 
-
-2. **Notebook de Modelagem:** 
-
-3. **Conclusões:** 
-
 ### 🎲 Base de Dados
 A base de dados utilizada neste projeto é Kidney Disease Database. Ela contém informações relevantes para a previsão de problemas renais.
 
