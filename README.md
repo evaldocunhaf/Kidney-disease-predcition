@@ -19,7 +19,7 @@ Fique atento para mais atualizações! Pretendo adicionar novos projetos conform
 
 ## 🤝 Como Contribuir?
 
-Aceitamos contribuições de outros pesquisadores e desenvolvedores interessados em melhorar a análise e a implementação do YOLO ou explorar outros algoritmos. Para contribuir, siga estas etapas:
+Aceitamos contribuições de outros pesquisadores e desenvolvedores interessados em melhorar a análise ou explorar outros algoritmos. Para contribuir, siga estas etapas:
 
 1. Faça um fork deste repositório.
 2. Crie uma branch para sua contribuição.
